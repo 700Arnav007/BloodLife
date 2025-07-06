@@ -45,15 +45,7 @@
 
 ---
 
-### 📸 Screenshots
 
-<p align="center">
-  <img src="https://placehold.co/700x400?text=Homepage" alt="Homepage" />
-  <br/><br/>
-  <img src="https://placehold.co/700x400?text=Donor+Search" alt="Donor Search" />
-</p>
-
-> *(Replace the above placeholders with real screenshots by uploading them in your repo or using external links)*
 
 ---
 
